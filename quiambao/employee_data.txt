@@ -1,3 +1,0 @@
-1001, Juan Dela Cruz, 40000
-1002, Maria Santos, 55000
-1003, Pedro Reyes, 30000
