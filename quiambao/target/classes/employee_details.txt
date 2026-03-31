@@ -1,0 +1,6 @@
+EmployeeNumber,LastName,FirstName,Birthday
+1001,Dela Cruz,Juan,01/15/1990
+1002,Santos,Maria,03/22/1992
+1003,Reyes,Pedro,07/30/1985
+1004,Mercado,Luisa,11/10/1993
+1005,Tan,Carlos,05/05/1988
